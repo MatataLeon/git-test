@@ -13,6 +13,7 @@ public class RText {
         a.add("IIIIIIIIIIIII");
         a.add("JJJJJJJJJJJJJ");
         a.add("QQQQQQQQQQQQQ");
+        a.add("MMMMMMMMMMMMM");
         for (String s : a) {
             System.out.println(s);
         }
