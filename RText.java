@@ -14,7 +14,9 @@ public class RText {
         a.add("JJJJJJJJJJJJJ");
         a.add("QQQQQQQQQQQQQ");
         a.add("MMMMMMMMMMMMM");
-	a.add("LLLLLLLLLLLLL")
+	a.add("LLLLLLLLLLLLL");
+	a.add("PPPPPPPPPPPPP");
+	a.add("RRRRRRRRRRRRR");
         for (String s : a) {
             System.out.println(s);
         }
