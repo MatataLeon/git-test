@@ -26,6 +26,11 @@ public class RText {
         a.add("PPPPPPPPPPPPP");
         a.add("RRRRRRRRRRRRR");
         a.add("YYYYYYYYYYYYY");
+        a.add("MMMMMMMMMMMMM");
+        a.add("LLLLLLLLLLLLL");
+        a.add("PPPPPPPPPPPPP");
+        a.add("RRRRRRRRRRRRR");
+        a.add("YYYYYYYYYYYYY");
         for (String s : a) {
             System.out.println(s);
         }
