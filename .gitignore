@@ -1,0 +1,5 @@
+#no .log file
+*.log
+*.gitignore
+!error.log
+
